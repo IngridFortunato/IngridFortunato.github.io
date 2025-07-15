@@ -6,7 +6,7 @@ Este é o meu portfólio pessoal, onde apresento meus projetos, habilidades e tr
 
 ## 🌐 Acesse o site
 
-🔗 [https://ingridfortunato.github.io](https://ingridfortunato.github.io)
+🔗 https://ingridfortunato.github.io/Portfolio/
 
 ## Tecnologias Utilizadas
 
